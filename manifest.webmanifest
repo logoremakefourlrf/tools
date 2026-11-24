@@ -1,0 +1,10 @@
+{
+  "name": "LogoRemakeFour Tools",
+  "short_name": "LR Tools",
+  "description": "A friendly collection of media, radio, Wikipedia, calendar, and desktop tools.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#101524",
+  "icons": []
+}

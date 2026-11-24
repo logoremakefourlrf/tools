@@ -1,0 +1,2 @@
+/* Accessible color accents and shared UI tokens. */
+:root{--accent-video:#e75462;--accent-radio:#ed9d4c;--accent-wiki:#5c789e;--accent-calendar:#3fa989}.card-youtube .card-tag{color:#d77a81}.card-radio .card-tag{color:#d28c48}.card-wiki .card-tag{color:#718aa8}.card-calendar .card-tag{color:#58a991}.card-desktop .card-tag{color:#9576cc}.card-collection .card-tag{color:#cb829d}.button:disabled{opacity:.55;cursor:not-allowed;transform:none}.topic-chip:focus-visible,.genre-chip:focus-visible{outline-offset:1px}
